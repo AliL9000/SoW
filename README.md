@@ -1,2 +1,2 @@
-# SoW
+# SWLab
 For SW lab
